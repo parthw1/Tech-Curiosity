@@ -1,4 +1,4 @@
-# Notes
+# Python backend notes
 
 ## WSGI - WSGI is the Web Server Gateway Interface
 
