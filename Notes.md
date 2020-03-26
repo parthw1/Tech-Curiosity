@@ -1,6 +1,6 @@
-### Simple Notes
+# Notes
 
-# WSGI - WSGI is the Web Server Gateway Interface
+## WSGI - WSGI is the Web Server Gateway Interface
 
 * It is a specification that describes how a web server communicates with web applications, and how web applications can be chained together to process one request.
 * It is a simple calling convention for web servers to forward requests to web applications or frameworks.
